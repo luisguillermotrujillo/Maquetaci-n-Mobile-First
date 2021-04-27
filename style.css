@@ -243,3 +243,6 @@ main{
     line-height: 1.5rem;
     color: var(--warm-black);
 }
+div p .currency-table--title{
+    margin: 0 auto;
+}
